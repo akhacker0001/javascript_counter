@@ -1,0 +1,50 @@
+.main-container{
+    /* border: 1px solid black; */
+    height: 350px;
+    width: 500px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+#counter{
+   
+    font-size: 60px;
+    position: relative;
+    bottom: 20px;
+    color: purple;
+}
+h1{
+    text-align: center;
+}
+#count{
+    font-size: 90px;
+    position: relative;
+    bottom: 50px;
+    color: green;
+}
+.button{
+    /* border: 1px solid red; */
+    height: 60px;
+    position: relative;
+    bottom: 70px;
+    text-align: center;
+}
+#decrease{
+    margin-right: 10px;
+
+
+}
+button{
+    height: 30px; 
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(230, 22, 67);
+    color: white;
+    border: none;
+    
+}
+#increase{
+    margin-left: 10px;
+}
